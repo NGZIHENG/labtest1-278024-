@@ -26,6 +26,7 @@ public class question2 {
 			commission = sales * 15/100;
 		}
 		
+		System.out.println(" ");
 		System.out.println("Commission :RM" + commission);
 		
 		double hourlywages = hours * 5;
